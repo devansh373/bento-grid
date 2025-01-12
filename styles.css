@@ -235,7 +235,7 @@ img {
     display: grid;
   }
 }
-@media (max-width: 550px) {
+@media (max-width: 760px) {
   .outer1 {
     display: none;
   }
