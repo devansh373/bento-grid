@@ -250,6 +250,7 @@ img {
 
   body {
     width: 100%;
+    height: auto;
     /* display: flex;
         justify-content: center;
         align-items: center; */
@@ -258,9 +259,10 @@ img {
     background-color: #f0f0f0;
   }
   .outer2 {
-    margin-top: 45%;
+    margin-top: 5%;
     display: grid;
     width: 90%;
+    max-width: 340px;
     height: auto;
     /* border: 1px solid; */
     overflow: auto;
